@@ -1,0 +1,38 @@
+/* default color: #2cc76a */
+.feature-box i,
+.feature-box-small-icon i,
+#mainmenu li li a:hover,
+.blog-list .date,
+.date-box .month,
+.blog-read .date,
+.slider-info .text1,
+#filters a.selected,
+span.overlay,
+.widget_tags li a,
+.btn-primary,
+.bg-id-color,
+#mainmenu a:hover
+{
+	background:#2cc76a;
+}
+
+#mainmenu li:hover > ul,
+.date-box .day,
+.slider_text h1,
+.id-color,
+.pricing-box li h1,
+.title span,
+a, a:visited,
+i.large:hover{
+	color:#2cc76a;
+}
+
+#filters a:hover,
+#filters a.selected
+{
+	border-color:#2cc76a;
+}
+
+.callbacks_nav {
+	background-color:#2cc76a;
+}

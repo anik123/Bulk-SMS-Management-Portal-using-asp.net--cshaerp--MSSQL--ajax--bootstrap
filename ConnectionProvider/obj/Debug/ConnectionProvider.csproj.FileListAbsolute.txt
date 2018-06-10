@@ -1,0 +1,40 @@
+F:\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.csprojResolveAssemblyReference.cache
+F:\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.dll
+F:\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.pdb
+F:\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.dll
+F:\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.pdb
+E:\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.dll
+E:\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.pdb
+E:\SMS_ON_BD\ConnectionProvider\obj\Debug\ResolveAssemblyReference.cache
+E:\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.dll
+E:\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.pdb
+C:\Users\DCL\Desktop\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.dll
+C:\Users\DCL\Desktop\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.pdb
+C:\Users\DCL\Desktop\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DCL\Desktop\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.dll
+C:\Users\DCL\Desktop\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.pdb
+D:\Project All\SMS_ON_BD ANIK\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.dll
+D:\Project All\SMS_ON_BD ANIK\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.pdb
+D:\Project All\SMS_ON_BD ANIK\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ResolveAssemblyReference.cache
+D:\Project All\SMS_ON_BD ANIK\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.dll
+D:\Project All\SMS_ON_BD ANIK\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.pdb
+D:\Project All\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.dll
+D:\Project All\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.pdb
+D:\Project All\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ResolveAssemblyReference.cache
+D:\Project All\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.dll
+D:\Project All\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.pdb
+D:\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.dll
+D:\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\bin\Debug\ConnectionProvider.pdb
+D:\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ResolveAssemblyReference.cache
+D:\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.dll
+D:\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Debug\ConnectionProvider.pdb
+D:\SMSONBD-ANIK\ConnectionProvider\bin\Debug\ConnectionProvider.dll
+D:\SMSONBD-ANIK\ConnectionProvider\bin\Debug\ConnectionProvider.pdb
+D:\SMSONBD-ANIK\ConnectionProvider\obj\Debug\ResolveAssemblyReference.cache
+D:\SMSONBD-ANIK\ConnectionProvider\obj\Debug\ConnectionProvider.dll
+D:\SMSONBD-ANIK\ConnectionProvider\obj\Debug\ConnectionProvider.pdb
+E:\Project\SMS-Web\SMS-30-04-2014\SMSONBD-ANIK\ConnectionProvider\bin\Debug\ConnectionProvider.dll
+E:\Project\SMS-Web\SMS-30-04-2014\SMSONBD-ANIK\ConnectionProvider\bin\Debug\ConnectionProvider.pdb
+E:\Project\SMS-Web\SMS-30-04-2014\SMSONBD-ANIK\ConnectionProvider\obj\Debug\ConnectionProvider.csprojResolveAssemblyReference.cache
+E:\Project\SMS-Web\SMS-30-04-2014\SMSONBD-ANIK\ConnectionProvider\obj\Debug\ConnectionProvider.dll
+E:\Project\SMS-Web\SMS-30-04-2014\SMSONBD-ANIK\ConnectionProvider\obj\Debug\ConnectionProvider.pdb

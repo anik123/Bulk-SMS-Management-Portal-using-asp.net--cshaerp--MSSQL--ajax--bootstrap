@@ -1,0 +1,10 @@
+C:\Users\DCL\Desktop\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\bin\Release\ConnectionProvider.dll
+C:\Users\DCL\Desktop\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\bin\Release\ConnectionProvider.pdb
+C:\Users\DCL\Desktop\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DCL\Desktop\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Release\ConnectionProvider.dll
+C:\Users\DCL\Desktop\SMS_ON_BD\SMS_ON_BD\ConnectionProvider\obj\Release\ConnectionProvider.pdb
+D:\SMSONBD-ANIK\ConnectionProvider\bin\Release\ConnectionProvider.dll
+D:\SMSONBD-ANIK\ConnectionProvider\bin\Release\ConnectionProvider.pdb
+D:\SMSONBD-ANIK\ConnectionProvider\obj\Release\ResolveAssemblyReference.cache
+D:\SMSONBD-ANIK\ConnectionProvider\obj\Release\ConnectionProvider.dll
+D:\SMSONBD-ANIK\ConnectionProvider\obj\Release\ConnectionProvider.pdb
